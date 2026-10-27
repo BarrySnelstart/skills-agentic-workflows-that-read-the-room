@@ -33,7 +33,7 @@ Use web-fetch to read all three public sources:
 
 - https://github.blog/latest/
 - https://github.blog/changelog/
-- Awesome Copilot workflows: https://awesome-copilot.github.com/workflows/
+- Awesome Copilot workflows: Use web-fetch to fetch https://awesome-copilot.github.com/workflows/
 
 Choose recent, relevant GitHub updates based on Mona's notes. Verify details
 against the linked source articles using web-fetch, staying within the allowed
